@@ -1,1 +1,1 @@
-# dz-exceptions
+# dz_exceptions
